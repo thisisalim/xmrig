@@ -21,7 +21,7 @@ if [ ! -f /tmp/config-demo.json ]; then
     "algo": "cryptonight",
     "pools": [
         {
-            "url": "xmrpool.eu:9999",
+            "url": "xmrpool.eu:5555",
             "user": "NOTAREALUSER",
             "pass": "x",
             "enabled": true,
